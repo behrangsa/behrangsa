@@ -2,7 +2,7 @@
 - 👨 I’m the founder of [turingg.com.au](https://turingg.com.au).
 - 🌐 My homepage is [behrang.org](https://behrang.org).
 - 🌱 I’m currently learning Kotlin.
-- 📫 I am reachable at [adelante@behrang.org](mailto:adelante@behrang.org).
+- 📫 I am reachable at [hello@behrang.org](mailto:hello@behrang.org).
 
 <!---
 behrangsa/behrangsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
