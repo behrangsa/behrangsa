@@ -1,0 +1,50 @@
+= Behrang Saeedzadeh
+
+[quote, Nietzsche, The Twilight of Idols]
+When one has one's wherefore of life, one gets along with _almost_ every how.
+
+'''
+
+[.text-center]
+[discrete]
+Music &#x2219; Philosophy &#x2219; History &#x2219; Programming
+
+'''
+
+[.text-center]
+[discrete]
+image:images/simple-icons/white/nixos.svg[NixOS, 24]&nbsp;
+image:images/simple-icons/white/kdeplasma.svg[KDE, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+image:images/simple-icons/white/ghostty.svg[Ghostty, 24]&nbsp;
+image:images/simple-icons/white/fishshell.svg[Fish Shell, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+image:images/simple-icons/white/gimp.svg[GIMP, 24]&nbsp;
+image:images/simple-icons/white/inkscape.svg[Inkscape, 24]&nbsp;
+image:images/simple-icons/white/krita.svg[Krita, 24]
+image:images/simple-icons/white/neovim.svg[Neovim, 24]&nbsp;
+image:images/simple-icons/white/zedindustries.svg[Zed, 24]&nbsp;
+image:images/simple-icons/white/vscodium.svg[VS Codium, 24]&nbsp;
+image:images/simple-icons/white/intellijidea.svg[IntelliJ IDEA, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+image:images/simple-icons/white/vivaldi.svg[Vivaldi, 24]&nbsp;
+image:images/simple-icons/white/brave.svg[Brave, 24]
+image:images/simple-icons/white/openjdk.svg[Java, 24]&nbsp;
+image:images/simple-icons/white/javascript.svg[JavaScript, 24]&nbsp;
+image:images/simple-icons/white/typescript.svg[TypeScript, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+image:images/simple-icons/white/typst.svg[Typst, 24]&nbsp;
+image:images/simple-icons/white/asciidoctor.svg[AsciiDoctor, 24]
+
+== About Me
+
+Accomplished software developer with 25 years of experience and a proven track
+record of designing, implementing, and maintaining solutions for banking,
+energy, media, sports betting and other verticals.
+
+== GitHub Organizations
+
+[cols="a", frame=none, grid=none]
+|===
+| === https://github.com/espiria[Espiria] +
+image:images/espiria-256.jpg[Espiria, 256]
+
+| === https://github.com/gogglesa[GoggleSA] +
+image:images/gogglesa-256.jpg[GoggleSA, 256]
+|===
