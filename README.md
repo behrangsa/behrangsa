@@ -20,7 +20,7 @@
 ## Connect
 
 - **Email**: hello@behrang.org
-- **X**: [@__nutthead__](x.com/__nutthead__)  
+- **X**: [@\_\_nutthead\_\_](x.com/__nutthead__)  
 - **LinkedIn**: [linkedin.com/in/behransa](https://linkedin.com/in/behrangsa)
 
 ---
