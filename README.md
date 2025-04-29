@@ -15,7 +15,8 @@
 ## Current Projects
 
 - **FOSS Chrome Extension**: Tab management on steroids (and asteroids)
-- **Tooling Experiments**: OpenAI Codex, Claude Code, Replit, GitHub Copilot, Cline, and the Zed editor
+- **Tooling Experiments**: OpenAI Codex, GitHub Copilot,  and the Zed editor
+  - **Stopped using**: Claude, Claude Code, Replit, Cline, v0.dev
 
 ## Connect
 
