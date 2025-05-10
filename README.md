@@ -12,11 +12,16 @@
 - **Chess**: Not very methodical yes, but I enjoy playing it. Current ELO: ~1400.
 - **AI & LLMs**: From generating images, making music and video, up to vibe coding and eveything in between.
 
+## Deployed Projects
+
+- [PixelString](https://pixelstring.app)
+
 ## Current Projects
 
-- **FOSS Chrome Extension**: Tab management on steroids (and asteroids)
-- **Tooling Experiments**: OpenAI Codex, GitHub Copilot,  and the Zed editor
+- **Chrome Extensions**: Tab management on steroids (and asteroids)
+- **Tooling Experiments**: OpenAI Codex, GitHub Copilot, and the Zed editor
   - **Stopped using**: Claude, Claude Code, Replit, Cline, v0.dev
+  - **Resumed using**: Claude (but cancelled my plan again)
 
 ## Connect
 
