@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Backend+Engineer;Frontend+Developer;Chess+Enthusiast;AI+%26+LLM+Explorer" alt="Typing SVG" />
 </div>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=behrangsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" />
+
 <div align="center">
   
   [![Website](https://img.shields.io/badge/Website-behrang.org-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://behrang.org)
@@ -14,22 +16,18 @@
 
 <br />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=behrangsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" />
+# 🧠 About Me
 
-## 🧠 About Me
-
-- 🚀 Full-stack developer passionate about creating elegant programs
-- ♟️ Amateur chess player exploring Indian defense and attack strategies
-- 🤖 AI/LLM enthusiast
-- 🛠️ Constantly experimenting with new tools and technologies
-- 🌱 Lifelong learner
-- 👁️ A pupil of Nietzsche
+• 🚀 Full-stack developer passionate about creating elegant programs
+• ♟️ Amateur chess player exploring Indian defense and attack strategies
+• 🤖 AI/LLM enthusiast
+• 🛠️ Constantly experimenting with new tools and technologies
+• 🌱 Lifelong learner
+• 👁️ A pupil of Nietzsche
 
 <br clear="right"/>
 
-## 🔥 Tech Stack
-
-### 
+# 🔥 Tech Stack
 
 <div align="center">
 
@@ -50,7 +48,7 @@
 
 </div>
 
-## 🏆 Projects
+# 🏆 Projects
 
 <table>
   <tr>
@@ -85,11 +83,11 @@
   </tr>
 </table>
 
-## 🧩 Interests
+# 🧩 Interests
 
 <img align="right" src="https://via.placeholder.com/250x150?text=Chess+Pieces" width="250" />
 
-### ♟️ Chess
+## ♟️ Chess
 
 - Currently studying Indian defense and attack strategies
 - Watching tutorials and matches on YouTube to improve
@@ -100,7 +98,7 @@
 
 <img align="right" src="https://via.placeholder.com/250x150?text=AI+%26+LLMs" width="250" />
 
-### 🤖 AI & LLMs
+## 🤖 AI & LLMs
 
 - Experimenting with various LLM models locally
 - Using AI for image generation, music creation, and coding assistance
@@ -109,9 +107,9 @@
 
 <br clear="right"/>
 
-## 🛠️ My Favorite Tools
+# 🛠️ My Favorite Tools
 
-### 👨‍💻 Programming and Tools
+## 👨‍💻 Programming and Tools
 
 <p>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -123,7 +121,7 @@
   <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-00ADD8?logo=go&logoColor=white"></a>
 </p>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=behrangsa&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
@@ -133,7 +131,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=behrangsa&theme=nord&column=7&no-frame=true" alt="Trophy" />
 </div>
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 I'm always open to interesting conversations and collaboration opportunities!
 
