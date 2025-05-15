@@ -5,15 +5,11 @@
 </div>
 
 <div align="center">
-  <a href="https://behrang.org">
-    <img src="https://img.shields.io/badge/Website-behrang.org-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/behrangsa">
-    <img src="https://img.shields.io/badge/LinkedIn-behrangsa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hello@behrang.org">
-    <img src="https://img.shields.io/badge/Email-hello@behrang.org-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  
+  [![Website](https://img.shields.io/badge/Website-behrang.org-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://behrang.org)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-behrangsa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/behrangsa)
+  [![Email](https://img.shields.io/badge/Email-hello@behrang.org-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@behrang.org)
+  
 </div>
 
 <br />
@@ -32,6 +28,8 @@
 <br clear="right"/>
 
 ## 🔥 Tech Stack
+
+### 
 
 <div align="center">
 
