@@ -1,79 +1,30 @@
 <div align="center">
   <h1>Behrang Saeedzadeh</h1>
-  <p>Backend Engineer • Frontend Developer • Software Architect</p>
+  <p>Programming • Computers • Philosophy • Music</p>
 </div>
 
 <div align="center">
-  <a href="https://behrang.org">Website</a> • 
-  <a href="https://linkedin.com/in/behrangsa">LinkedIn</a> • 
+  <a href="https://behrang.org">Website</a> •
+  <a href="https://linkedin.com/in/behrangsa">LinkedIn</a> •
   <a href="mailto:hello@behrang.org">Email</a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=behrangsa&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behrangsa&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</div>
+<p>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=behrangsa&show_icons=true&theme=default&hide_border=true&count_private=true&card_width=480&hide_title=true&hide=stars&hide_rank=false&include_all_commits=false" alt="GitHub Stats" />  
+  </div>
+</p>
 
 ## About Me
 
-Full-stack developer focused on creating efficient, scalable solutions. I specialize in modern web technologies and cloud architecture, with experience building applications from concept to production.
+I am a programmer driven by curiosity. I create tools that meet my personal needs, and if I think others can benefit from them, I share them with the world. I continually explore technologies that my curiosity inspires me to study. Quite often, anything I write is never finished.
 
 <br />
-
-## Tech Stack
-
-### Advanced/Expert Level
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-    </td>
-  </tr>
-</table>
-
-### Learning
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-    </td>
-  </tr>
-</table>
 
 ## Projects
 
 ### PixelString
+
 **Effortless Image and Data URL Conversion**
 
 A web application for converting images to data URLs and vice versa. Built with modern web technologies for optimal performance and user experience.
@@ -84,21 +35,31 @@ A web application for converting images to data URLs and vice versa. Built with 
 
 ## Tools & Environment
 
-**Operating System:** Ubuntu 24.04 with GNOME  
-**Terminal:** Alacritty with Zellij  
-**Editors:** Zed Editor, VS Code  
-**AI Assistant:** Claude Code  
-**Browser:** Vivaldi  
-**Graphics:** GIMP
+<div align="center">
 
+![Alacritty](https://img.shields.io/badge/Alacritty-FF6B6B?style=flat&logo=alacritty&logoColor=white&labelColor=FF6B6B&color=FF6B6B)
+![Claude](https://img.shields.io/badge/Claude_Code-FF8E53?style=flat&logo=anthropic&logoColor=white&labelColor=FF8E53&color=FF8E53)
+![GIMP](https://img.shields.io/badge/GIMP-E67E22?style=flat&logo=gimp&logoColor=white&labelColor=E67E22&color=E67E22)
+![GNOME](https://img.shields.io/badge/GNOME-F39C12?style=flat&logo=gnome&logoColor=white&labelColor=F39C12&color=F39C12)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_24.04-6BCF7F?style=flat&logo=ubuntu&logoColor=white&labelColor=6BCF7F&color=6BCF7F)
+![Vivaldi](https://img.shields.io/badge/Vivaldi-4ECDC4?style=flat&logo=vivaldi&logoColor=white&labelColor=4ECDC4&color=4ECDC4)
+![VS Code](https://img.shields.io/badge/VS_Code-45B7D1?style=flat&logo=visualstudiocode&logoColor=white&labelColor=45B7D1&color=45B7D1)
+![Zed](https://img.shields.io/badge/Zed-5D737E?style=flat&logo=zedindustries&logoColor=white&labelColor=5D737E&color=5D737E)
+![Zellij](https://img.shields.io/badge/Zellij-6C5CE7?style=flat&logo=terminal&logoColor=white&labelColor=6C5CE7&color=6C5CE7)
+
+</div>
 
 ## Contact
 
 Open to interesting conversations and collaboration opportunities.
 
-**Website:** [behrang.org](https://behrang.org)  
-**LinkedIn:** [linkedin.com/in/behrangsa](https://linkedin.com/in/behrangsa)  
-**Email:** [hello@behrang.org](mailto:hello@behrang.org)
+<div align="center">
+
+![Website](https://img.shields.io/badge/behrang.org-4285F4?style=flat&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBoZWlnaHQ9IjEyOHB4IiB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgd2lkdGg9IjEyOHB4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSI5OCIgeDI9IjEwOCIgeTE9IjExMiIgeTI9IjExMiI+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMTY1MjljIi8+CiAgICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMjM2YWMwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiIiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDAgLTEgMSAwIC0xNTcgMTIxKSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIwLjk5OTk5OSIgeDI9IjAuOTk5OTk5IiB5MT0iMjE1IiB5Mj0iMTcxIj4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMyMTY2YmIiLz4KICAgICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM4OWVkYTkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJjIiBoZWlnaHQ9IjEwMCUiIHdpZHRoPSIxMDAlIiB4PSIwJSIgeT0iMCUiPgogICAgICAgIDxmZUNvbG9yTWF0cml4IGluPSJTb3VyY2VHcmFwaGljIiB0eXBlPSJtYXRyaXgiIHZhbHVlcz0iMCAwIDAgMCAxIDAgMCAwIDAgMSAwIDAgMCAwIDEgMCAwIDAgMSAwIi8+CiAgICA8L2ZpbHRlcj4KICAgIDxtYXNrIGlkPSJkIj4KICAgICAgICA8ZyBmaWx0ZXI9InVybCgjYykiPgogICAgICAgICAgICA8cmVjdCBmaWxsLW9wYWNpdHk9IjAuNSIgaGVpZ2h0PSIxMjgiIHdpZHRoPSIxMjgiLz4KICAgICAgICA8L2c+CiAgICA8L21hc2s+CiAgICA8Y2xpcFBhdGggaWQ9ImUiPgogICAgICAgIDxyZWN0IGhlaWdodD0iMTUyIiB3aWR0aD0iMTkyIi8+CiAgICA8L2NsaXBQYXRoPgogICAgPG1hc2sgaWQ9ImYiPgogICAgICAgIDxnIGZpbHRlcj0idXJsKCNjKSI+CiAgICAgICAgICAgIDxyZWN0IGZpbGwtb3BhY2l0eT0iMC41IiBoZWlnaHQ9IjEyOCIgd2lkdGg9IjEyOCIvPgogICAgICAgIDwvZz4KICAgIDwvbWFzaz4KICAgIDxjbGlwUGF0aCBpZD0iZyI+CiAgICAgICAgPHJlY3QgaGVpZ2h0PSIxNTIiIHdpZHRoPSIxOTIiLz4KICAgIDwvY2xpcFBhdGg+CiAgICA8bWFzayBpZD0iaCI+CiAgICAgICAgPGcgZmlsdGVyPSJ1cmwoI2MpIj4KICAgICAgICAgICAgPHJlY3QgZmlsbC1vcGFjaXR5PSIwLjUiIGhlaWdodD0iMTI4IiB3aWR0aD0iMTI4Ii8+CiAgICAgICAgPC9nPgogICAgPC9tYXNrPgogICAgPGNsaXBQYXRoIGlkPSJpIj4KICAgICAgICA8cmVjdCBoZWlnaHQ9IjE1MiIgd2lkdGg9IjE5MiIvPgogICAgPC9jbGlwUGF0aD4KICAgIDxwYXRoIGQ9Im0gNjQgNSBjIDMzLjEzNjcxOSAwIDYwIDI2Ljg2MzI4MSA2MCA2MCBzIC0yNi44NjMyODEgNjAgLTYwIDYwIHMgLTYwIC0yNi44NjMyODEgLTYwIC02MCBzIDI2Ljg2MzI4MSAtNjAgNjAgLTYwIHogbSAwIDAiIGZpbGw9InVybCgjYSkiLz4KICAgIDxwYXRoIGQ9Im0gNjQgNSBjIC0zMy4xMzY3MTkgMCAtNjAgMjYuODYzMjgxIC02MCA2MCBzIDI2Ljg2MzI4MSA2MCA2MCA2MCB6IG0gMCAwIiBmaWxsPSJ1cmwoI2IpIi8+CiAgICA8cGF0aCBkPSJtIDEyNCA2MyBjIDAgMzMuMTM2NzE5IC0yNi44NjMyODEgNjAgLTYwIDYwIHMgLTYwIC0yNi44NjMyODEgLTYwIC02MCBzIDI2Ljg2MzI4MSAtNjAgNjAgLTYwIHMgNjAgMjYuODYzMjgxIDYwIDYwIHogbSAwIDAiIGZpbGw9IiM0MGExYzgiLz4KICAgIDxwYXRoIGQ9Im0gMjguMDAzOTA2IDY0IGMgMC4xMjUgMTMuOTE0MDYyIDIuODgyODEzIDI3LjM2NzE4OCA3LjgzNTkzOCAzOC4yNSBjIC0zLjk0MTQwNiAyLjAxNTYyNSAtNy4yODEyNSA0LjQ0MTQwNiAtOS44NjMyODIgNy4xNjAxNTYgYyAtMTMuNjQwNjI0IC0xMS4xNzE4NzUgLTIxLjY3NTc4MSAtMjcuNzgxMjUgLTIxLjk2ODc1IC00NS40MTAxNTYgeiBtIDAgMCIgZmlsbD0iIzQ5YmJiMCIvPgogICAgPHBhdGggZD0ibSA2NCA5NiB2IDI3IGMgLTQuNSAwIC04Ljk4ODI4MSAtMC41MDc4MTIgLTEzLjM3NSAtMS41MTE3MTkgYyAtNS44MDA3ODEgLTQuMDU4NTkzIC0xMC44OTQ1MzEgLTEwLjY5MTQwNiAtMTQuNzgxMjUgLTE5LjIzODI4MSBjIDcuOTAyMzQ0IC00LjAzOTA2MiAxNy44NjcxODggLTYuMjUgMjguMTU2MjUgLTYuMjUgeiBtIDAgMCIgZmlsbD0iIzM3OGJkZSIvPgogICAgPHBhdGggZD0ibSA5OS45OTYwOTQgNjQgYyAtMC4xMjUgMTMuOTE0MDYyIC0yLjg4MjgxMyAyNy4zNjcxODggLTcuODM5ODQ0IDM4LjI1IGMgMy45NDUzMTIgMi4wMTU2MjUgNy4yODEyNSA0LjQ0MTQwNiA5Ljg2MzI4MSA3LjE2MDE1NiBjIDEzLjY0MDYyNSAtMTEuMTcxODc1IDIxLjY3NTc4MSAtMjcuNzgxMjUgMjEuOTcyNjU3IC00NS40MTAxNTYgeiBtIDAgMCIgZmlsbD0iIzI2NmVjNiIvPgogICAgPHBhdGggZD0ibSA2NCA2NCB2IDU5IGMgNC41IDAgOC45ODgyODEgLTAuNTA3ODEyIDEzLjM3NSAtMS41MTE3MTkgYyAxMy40NzI2NTYgLTkuNDMzNTkzIDIyLjM5MDYyNSAtMzIuMDk3NjU2IDIyLjYyMTA5NCAtNTcuNDg4MjgxIHogbSAwIDAiIGZpbGw9IiMzNzhiZGUiLz4KICAgIDxwYXRoIGQ9Im0gNjQgOTYgdiAyNyBjIDQuNSAwIDguOTg4MjgxIC0wLjUwNzgxMiAxMy4zNzUgLTEuNTExNzE5IGMgNS44MDA3ODEgLTQuMDU4NTkzIDEwLjg5NDUzMSAtMTAuNjkxNDA2IDE0Ljc4MTI1IC0xOS4yMzgyODEgYyAtNy45MDIzNDQgLTQuMDM5MDYyIC0xNy44NjcxODggLTYuMjUgLTI4LjE1NjI1IC02LjI1IHogbSAwIDAiIGZpbGw9IiMyNjZlYzYiLz4KICAgIDxwYXRoIGQ9Im0gOTIuMTYwMTU2IDEwMi4yNSBjIC0zLjg5MDYyNSA4LjU0Njg3NSAtOC45ODQzNzUgMTUuMTc1NzgxIC0xNC43ODEyNSAxOS4yMzgyODEgYyA5LjAzNTE1NiAtMi4wNjY0MDYgMTcuNDcyNjU2IC02LjIwMzEyNSAyNC42NDQ1MzIgLTEyLjA3ODEyNSBjIC0yLjU4MjAzMiAtMi43MTg3NSAtNS45MjE4NzYgLTUuMTQ0NTMxIC05Ljg2MzI4MiAtNy4xNjAxNTYgeiBtIDAgMCIgZmlsbD0iIzFlNjJiNSIvPgogICAgPHBhdGggZD0ibSA2NCAzIGMgLTMzLjEzNjcxOSAwIC02MCAyNi44NjMyODEgLTYwIDYwIGMgMCAwLjMzMjAzMSAwLjAwMzkwNiAwLjY2Nzk2OSAwLjAwNzgxMiAxIGggNTkuOTkyMTg4IHogbSAwIDAiIGZpbGw9IiM1M2Q3OTUiLz4KICAgIDxwYXRoIGQ9Im0gNTAuNjI1IDQuNTA3ODEyIGMgLTkuMDM5MDYyIDIuMDcwMzEzIC0xNy40NzY1NjIgNi4yMDMxMjYgLTI0LjY0ODQzOCAxMi4wNzgxMjYgYyAyLjU4MjAzMiAyLjcyMjY1NiA1LjkyMTg3NiA1LjE0NDUzMSA5Ljg2NzE4OCA3LjE2NDA2MiBjIDMuODkwNjI1IC04LjU1MDc4MSA4Ljk4NDM3NSAtMTUuMTc5Njg4IDE0Ljc4MTI1IC0xOS4yNDIxODggeiBtIDAgMCIgZmlsbD0iIzcyZTk5YSIvPgogICAgPHBhdGggZD0ibSA2NCAzIGMgLTQuNSAwIC04Ljk4NDM3NSAwLjUwNzgxMiAtMTMuMzc1IDEuNTA3ODEyIGMgLTEzLjY2NDA2MiA5LjU3MDMxMyAtMjIuNjI1IDMyLjczNDM3NiAtMjIuNjI1IDU4LjQ5MjE4OCBjIDAgMC4zMzIwMzEgMCAwLjY2Nzk2OSAwLjAwMzkwNiAxIGggMzUuOTk2MDk0IHogbSAwIDAiIGZpbGw9IiM0OWJiYjAiLz4KICAgIDxwYXRoIGQ9Im0gNjQgMyBjIC00LjUgMCAtOC45ODQzNzUgMC41MDc4MTIgLTEzLjM3NSAxLjUwNzgxMiBjIC01Ljc5Njg3NSA0LjA2MjUgLTEwLjg5MDYyNSAxMC42OTE0MDcgLTE0Ljc4MTI1IDE5LjI0MjE4OCBjIDcuOTA2MjUgNC4wMzkwNjIgMTcuODY3MTg4IDYuMjUgMjguMTU2MjUgNi4yNSB6IG0gMCAwIiBmaWxsPSIjNTNkNzk1Ii8+CiAgICA8cGF0aCBkPSJtIDY0IDMgYyAzMy4xMzY3MTkgMCA2MCAyNi44NjMyODEgNjAgNjAgYyAwIDAuMzMyMDMxIC0wLjAwMzkwNiAwLjY2Nzk2OSAtMC4wMDc4MTIgMSBoIC01OS45OTIxODggeiBtIDAgMCIgZmlsbD0iIzM3OGJkZSIvPgogICAgPHBhdGggZD0ibSA3Ny4zNzUgNC41MDc4MTIgYyA5LjAzOTA2MiAyLjA3MDMxMyAxNy40NzY1NjIgNi4yMDMxMjYgMjQuNjQ4NDM4IDEyLjA3ODEyNiBjIC0yLjU4MjAzMiAyLjcyMjY1NiAtNS45MjE4NzYgNS4xNDQ1MzEgLTkuODYzMjgyIDcuMTYwMTU2IGMgLTMuODk0NTMxIC04LjU0Njg3NSAtOC45ODgyODEgLTE1LjE3NTc4MiAtMTQuNzg1MTU2IC0xOS4yMzgyODIgeiBtIDAgMCIgZmlsbD0iIzQwYTFjOCIvPgogICAgPHBhdGggZD0ibSA2NCAzIGMgNC41IDAgOC45ODgyODEgMC41MDc4MTIgMTMuMzc1IDEuNTA3ODEyIGMgMTMuNjY0MDYyIDkuNTcwMzEzIDIyLjYyNSAzMi43MzQzNzYgMjIuNjI1IDU4LjQ5MjE4OCBjIDAgMC4zMzIwMzEgMCAwLjY2Nzk2OSAtMC4wMDM5MDYgMSBoIC0zNS45OTYwOTQgeiBtIDAgMCIgZmlsbD0iIzQwYTFjOCIvPgogICAgPHBhdGggZD0ibSA2NCAzIGMgNC41IDAgOC45ODgyODEgMC41MDc4MTIgMTMuMzc1IDEuNTA3ODEyIGMgNS43OTY4NzUgNC4wNjI1IDEwLjg5MDYyNSAxMC42OTE0MDcgMTQuNzgxMjUgMTkuMjM4MjgyIGMgLTcuOTA2MjUgNC4wNDI5NjggLTE3Ljg2NzE4OCA2LjI1MzkwNiAtMjguMTU2MjUgNi4yNTM5MDYgeiBtIDAgMCIgZmlsbD0iIzQ5YmJiMCIvPgogICAgPGcgY2xpcC1wYXRoPSJ1cmwoI2UpIiBtYXNrPSJ1cmwoI2QpIiB0cmFuc2Zvcm09Im1hdHJpeCgxIDAgMCAxIC04IC0xNikiPgogICAgICAgIDxwYXRoIGQ9Im0gMTY5LjUgMjQgdiAxIGggMTMgdiAtMSB6IG0gMCAwIiBmaWxsPSIjMmUzNDM2Ii8+CiAgICA8L2c+CiAgICA8ZyBjbGlwLXBhdGg9InVybCgjZykiIG1hc2s9InVybCgjZikiIHRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIDEgLTggLTE2KSI+CiAgICAgICAgPHBhdGggZD0ibSAxNjkuNSAyMSB2IDEgaCAxMyB2IC0xIHogbSAwIDAiIGZpbGw9IiMyZTM0MzYiLz4KICAgIDwvZz4KICAgIDxnIGNsaXAtcGF0aD0idXJsKCNpKSIgbWFzaz0idXJsKCNoKSIgdHJhbnNmb3JtPSJtYXRyaXgoMSAwIDAgMSAtOCAtMTYpIj4KICAgICAgICA8cGF0aCBkPSJtIDE2OS41IDI3IHYgMSBoIDEzIHYgLTEgeiBtIDAgMCIgZmlsbD0iIzJlMzQzNiIvPgogICAgPC9nPgo8L3N2Zz4K&logoColor=white&labelColor=4285F4&color=4285F4)
+![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fbehrangsa-0A66C2?style=flat&labelColor=0A66C2&color=0A66C2&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUM4My4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDBaIi8+PC9zdmc+&logoColor=white)
+![Email](https://img.shields.io/badge/hello%40behrang.org-6D4AFF?style=flat&logo=protonmail&logoColor=white&labelColor=6D4AFF&color=6D4AFF)
+
+</div>
 
 <!---
 behrangsa/behrangsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
