@@ -5,8 +5,9 @@
 
 <div align="center">
   <a href="https://behrang.org">Website</a> •
-  <a href="https://linkedin.com/in/behrangsa">LinkedIn</a> •
-  <a href="mailto:hello@behrang.org">Email</a>
+  <a rel="me" href="https://mastodon.social/@behrangsa" style="display: none;">Mastodon</a> •
+  <a href="mailto:hello@behrang.org">Email</a> •
+  <a href="https://linkedin.com/in/behrangsa">LinkedIn</a>  
 </div>
 
 <p>
@@ -60,8 +61,6 @@ Open to interesting conversations and collaboration opportunities.
 ![Email](https://img.shields.io/badge/hello%40behrang.org-6D4AFF?style=flat&logo=protonmail&logoColor=white&labelColor=6D4AFF&color=6D4AFF)
 
 </div>
-
-<a rel="me" href="https://mastodon.social/@behrangsa" style="display: none;">Mastodon</a>
 
 <!---
 behrangsa/behrangsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
