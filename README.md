@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://behrang.org">Website</a> •
-  <a rel="me" href="https://mastodon.social/@behrangsa" style="display: none;">Mastodon</a> •
+  <a rel="me" href="https://mastodon.social/@behrangsa">Mastodon</a> •
   <a href="mailto:hello@behrang.org">Email</a> •
   <a href="https://linkedin.com/in/behrangsa">LinkedIn</a>  
 </div>
