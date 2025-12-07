@@ -1,37 +1,48 @@
-<div align="center">
-  <h1>Behrang Saeedzadeh</h1>
-  <p>Programming • Computers • Philosophy • Music</p>
+<div>
+    <blockquote cite="[https://www.huxley.net/bnw/four.html](https://www.google.co.uk/books/edition/The_Case_of_Wagner/6nYRAAAAYAAJ)">
+    <p>
+      When one has one's wherefore of life, one gets along with <em>almost every how.</em>
+    </p>
+  </blockquote>
+  <p align="right">—Nietzsche, <cite>The Twilight of the Idols</cite></p>  
 </div>
 
-<div align="center">
-  <a href="https://behrang.org">Website</a> •
-  <a rel="me" href="https://mastodon.social/@behrangsa">Mastodon</a> •
-  <a href="mailto:hello@behrang.org">Email</a> •
-  <a href="https://linkedin.com/in/behrangsa">LinkedIn</a>  
+<h1>Behrang Saeedzadeh</h1>
+<div align="center">  
+  <p>Music • Philosophy • Computers • Programming • Java • JavaScript • TypeScript • Rust</p>
 </div>
 
 <p />
 
 <div align="center">
 
-![Ghostty](https://img.shields.io/badge/Ghostty-E74C3C?style=flat&logo=gnubash&logoColor=white&labelColor=E74C3C&color=E74C3C)
-![Zellij](https://img.shields.io/badge/Zellij-8E44AD?style=flat&logo=gnubash&logoColor=white&labelColor=8E44AD&color=8E44AD)
-![Claude](https://img.shields.io/badge/Claude_Code-E67E22?style=flat&logo=claude&logoColor=white&labelColor=E67E22&color=E67E22)
-![GIMP](https://img.shields.io/badge/GIMP-5B6DCD?style=flat&logo=gimp&logoColor=white&labelColor=5B6DCD&color=5B6DCD)
-![GNOME](https://img.shields.io/badge/GNOME-F39C12?style=flat&logo=gnome&logoColor=white&labelColor=F39C12&color=F39C12)
-![NixOS](https://img.shields.io/badge/NixOS-3498DB?style=flat&logo=nixos&logoColor=white&labelColor=3498DB&color=3498DB)
-![VS Code](https://img.shields.io/badge/VS_Code-F1C40F?style=flat&logo=c&logoColor=white&labelColor=F1C40F&color=F1C40F)
-![IDEA](https://img.shields.io/badge/IDEA-1ABC9C?style=flat&logo=intellijidea&logoColor=white&labelColor=1ABC9C&color=1ABC9C)
-![Vivaldi](https://img.shields.io/badge/Vivaldi-F4D03F?style=flat&logo=vivaldi&logoColor=white&labelColor=F4D03F&color=F4D03F)
+![NixOS](https://img.shields.io/badge/NixOS-blue?style=flat&logo=nixos&logoColor=white&color=a51c30)
+![GNOME](https://img.shields.io/badge/GNOME-blue?style=flat&logo=gnome&logoColor=white&color=a51c30)
+&nbsp;&nbsp;
+![Ghostty](https://img.shields.io/badge/Ghostty-blue?style=flat&logo=ghostty&logoColor=white&color=a51c30)
+![Fish](https://img.shields.io/badge/Fish_Shell-blue?style=flat&logo=fishshell&logoColor=white&color=a51c30)
+&nbsp;&nbsp;
+![GIMP](https://img.shields.io/badge/GIMP-blue?style=flat&logo=gimp&logoColor=white&color=a51c30)
+![Inkscape](https://img.shields.io/badge/Inkscape-blue?style=flat&logo=inkscape&logoColor=white&color=a51c30)
+![Krtia](https://img.shields.io/badge/Krita-blue?style=plastic&logo=krita&logoColor=white&color=a51c30)
+
+![Helix Editor](https://img.shields.io/badge/Helix-blue?style=plastic&logo=helix&logoColor=white&color=002D67)
+![IDEA](https://img.shields.io/badge/IDEA-blue?style=plastic&logo=intellijidea&logoColor=white&color=002D67)
+![Zed Editor](https://img.shields.io/badge/Zed-blue?style=plastic&logo=zedindustries&logoColor=white&color=002D67)
+&nbsp;&nbsp;
+![Claude](https://img.shields.io/badge/Claude_Code-blue?style=flat&logo=claude&logoColor=white&color=002D67)
+![Gemini](https://img.shields.io/badge/Gemini-blue?style=flat&logo=googlegemini&logoColor=white&color=002D67)
+&nbsp;&nbsp;
+![Vivaldi](https://img.shields.io/badge/Vivaldi-blue?style=flat&logo=vivaldi&logoColor=white&color=002D67)
+![Libre Office](https://img.shields.io/badge/Libre_Office-blue?style=flat&logo=libreofficewriter&logoColor=white&color=002D67)
+
+![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=coffeescript&logoColor=white&color=014f86)
+![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat&logo=javascript&logoColor=white&color=014f86)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white&color=014f86)
+![Rust](https://img.shields.io/badge/Rust-blue?style=flat&logo=rust&logoColor=white&color=ade8f4)
+![Typst](https://img.shields.io/badge/Typst-blue?style=flat&logo=typst&logoColor=white&color=014f86)
 
 </div>
-
-
-<p>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=behrangsa&show_icons=true&theme=default&hide_border=true&count_private=true&card_width=480&hide_title=true&hide=stars&hide_rank=false&include_all_commits=false" alt="GitHub Stats" />  
-  </div>
-</p>
 
 ## About Me
 
@@ -49,18 +60,14 @@ A web application for converting images to data URLs and vice versa. Built with 
 
 [Visit PixelString →](https://pixelstring.app)
 
-<br />
+### Samoyed
 
-## Contact
+**A minimalist Rust-based alternative to Husky**
 
-Open to interesting conversations and collaboration opportunities.
+Samoyed keeps Git hook management small, transparent, and safe. It ships as one Rust binary plus a POSIX wrapper script, so developers can install it quickly, version it with their repositories, and stay in control of what runs on commit.
 
-<div align="center">
+[Visit Samoyed →](https://github.com/nutthead/samoyed)
 
-[![Website](https://img.shields.io/badge/behrang.org-4285F4?style=flat&logo=firefox&logoColor=white&labelColor=4285F4&color=4285F4)](https://behrang.org)
-[![Email](https://img.shields.io/badge/hello%40behrang.org-6D4AFF?style=flat&logo=protonmail&logoColor=white&labelColor=6D4AFF&color=6D4AFF)](mailto:hello@behrang.org)
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fbehrangsa-0A66C2?style=flat&labelColor=0A66C2&color=0A66C2&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUM4My4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDBaIi8+PC9zdmc+&logoColor=white)](https://linkedin.com/in/behrangsa)
-</div>
 
 <!---
 behrangsa/behrangsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
