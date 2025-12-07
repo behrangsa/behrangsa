@@ -9,7 +9,7 @@
 
 <h1>Behrang Saeedzadeh</h1>
 <div align="center">  
-  <p>Music • Philosophy • Computers • Programming • Java • JavaScript • TypeScript • Rust</p>
+  <p>Music • Philosophy • Computers • Programming</p>
 </div>
 
 <p />
