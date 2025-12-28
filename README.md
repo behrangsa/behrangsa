@@ -39,7 +39,6 @@
 ![Java](https://img.shields.io/badge/Java-blue?style=plastic&logo=coffeescript&logoColor=white&color=014f86)
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=plastic&logo=javascript&logoColor=white&color=014f86)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=plastic&logo=typescript&logoColor=white&color=014f86)
-![Rust](https://img.shields.io/badge/Rust-blue?style=plastic&logo=rust&logoColor=white&color=ade8f4)
 ![Typst](https://img.shields.io/badge/Typst-blue?style=plastic&logo=typst&logoColor=white&color=014f86)
 
 </div>
