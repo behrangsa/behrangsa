@@ -25,16 +25,19 @@
 ![GIMP](https://img.shields.io/badge/GIMP-blue?style=plastic&logo=gimp&logoColor=white&color=a51c30)
 ![Inkscape](https://img.shields.io/badge/Inkscape-blue?style=plastic&logo=inkscape&logoColor=white&color=a51c30)
 ![Krtia](https://img.shields.io/badge/Krita-blue?style=plastic&logo=krita&logoColor=white&color=a51c30)
+&nbsp;&nbsp;
 
 ![Helix Editor](https://img.shields.io/badge/Helix-blue?style=plastic&logo=helix&logoColor=white&color=002D67)
-![IDEA](https://img.shields.io/badge/IDEA-blue?style=plastic&logo=intellijidea&logoColor=white&color=002D67)
 ![Zed Editor](https://img.shields.io/badge/Zed-blue?style=plastic&logo=zedindustries&logoColor=white&color=002D67)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=plastic&logoColor=white&color=002D67)
+![IDEA](https://img.shields.io/badge/IDEA-blue?style=plastic&logo=intellijidea&logoColor=white&color=002D67)
 &nbsp;&nbsp;
 ![Claude](https://img.shields.io/badge/Claude_Code-blue?style=plastic&logo=claude&logoColor=white&color=002D67)
 ![Gemini](https://img.shields.io/badge/Gemini-blue?style=plastic&logo=googlegemini&logoColor=white&color=002D67)
 &nbsp;&nbsp;
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-blue?style=plastic&logo=vivaldi&logoColor=white&color=002D67)
 ![Libre Office](https://img.shields.io/badge/Libre_Office-blue?style=plastic&logo=libreofficewriter&logoColor=white&color=002D67)
+&nbsp;&nbsp;
 
 ![Java](https://img.shields.io/badge/Java-blue?style=plastic&logo=coffeescript&logoColor=white&color=014f86)
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=plastic&logo=javascript&logoColor=white&color=014f86)
@@ -50,6 +53,12 @@ I am a programmer driven by curiosity. I create tools that meet my personal need
 <br />
 
 ## Projects
+
+## CC StatusLine
+
+**Simple, fast, customize status line generator for Claude Code**
+
+[Visit CC StatusLine →](https://www.npmjs.com/package/@nutthead/cc-statuslinee)
 
 ### PixelString
 
