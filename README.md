@@ -58,7 +58,7 @@ I am a programmer driven by curiosity. I create tools that meet my personal need
 
 **Simple, fast, customize status line generator for Claude Code**
 
-[Visit CC StatusLine →](https://www.npmjs.com/package/@nutthead/cc-statuslinee)
+[Visit CC StatusLine →](https://www.npmjs.com/package/@nutthead/cc-statusline)
 
 ### PixelString
 
