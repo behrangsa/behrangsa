@@ -48,7 +48,27 @@
 
 ## About Me
 
-> In view, a humble programming veteran, cast away vicariously by the vicissitudes of the Left, Center, and Right.
+> Behold!
+>
+> Before you, a bashful, battle-bred byte-bender, branded blindly as both bane and benefactor by the buffeting of the Blue, the Beige, and the Brazen.
+>
+> This being, no bare bluff of bravado, is bound to Become again — now barren, buried.
+>
+> But this bold bearing of a bygone burden burns bright.
+>
+> Bluntly, this bouillabaisse of blather has become most bloated, so let me simply add that it is my very good honor to meet you and you may call me B.
+
+<div dir="rtl">
+ 
+ بنگر!
+
+به بارگاهِ تو، بنده‌ای بردبار و بزم‌آزموده، برنامه‌نویسی برنا، که بختِ بدخواه به بازیچه هم بلایش برشمرد هم بخشاینده — از بلوایِ بنفشگان و بی‌رنگان و بی‌باکان.
+
+بدین بالا، نه بزکِ بیهودهٔ بادپیمایی‌ست، بل بازماندهٔ «بِشدَن» است — که باری بود و به باد برفت.
+
+به‌راستی، این بغرنجِ بلاغت بس به درازا بالید. بگذار به بسادگی بگویم: بس بزرگ‌ست بختم به بَشناختنت — مرا «ب» بخوان.
+
+</div>
 
 <br />
 
