@@ -48,7 +48,7 @@
 
 ## About Me
 
-I am a programmer driven by curiosity. I create tools that meet my personal needs, and if I think others can benefit from them, I share them with the world. I continually explore technologies that my curiosity inspires me to study. Quite often, anything I write is never finished.
+> In view, a humble programming veteran, cast away vicariously by the vicissitudes of the Left, Center, and Right.
 
 <br />
 
