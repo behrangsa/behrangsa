@@ -48,8 +48,9 @@
 
 ## About Me
 
-> In view, a humble programming veteran, cast away vicariously by the vicissitudes of the Left, Center, and Right.
-
+> In view, a humble programming veteran, cast away vicariously by the vicissitudes of the Blue, the Beige, and the Brazen.
+>
+> You may call me _B!_
 <br />
 
 ## Projects
