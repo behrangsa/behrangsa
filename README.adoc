@@ -25,7 +25,7 @@ image:images/simple-icons/white/zedindustries.svg[Zed, 24]&nbsp;
 image:images/simple-icons/white/vscodium.svg[VS Codium, 24]&nbsp;
 image:images/simple-icons/white/intellijidea.svg[IntelliJ IDEA, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 image:images/simple-icons/white/vivaldi.svg[Vivaldi, 24]&nbsp;
-image:images/simple-icons/white/brave.svg[Brave, 24]
+image:images/simple-icons/white/brave.svg[Brave, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 image:images/simple-icons/white/openjdk.svg[Java, 24]&nbsp;
 image:images/simple-icons/white/javascript.svg[JavaScript, 24]&nbsp;
 image:images/simple-icons/white/typescript.svg[TypeScript, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
