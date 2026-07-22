@@ -13,24 +13,24 @@ Music &#x2219; Philosophy &#x2219; History &#x2219; Programming
 
 [.text-center]
 [discrete]
-image:images/simple-icons/white/nixos.svg[NixOS, 24]&nbsp;
-image:images/simple-icons/white/kdeplasma.svg[KDE, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-image:images/simple-icons/white/ghostty.svg[Ghostty, 24]&nbsp;
-image:images/simple-icons/white/fishshell.svg[Fish Shell, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-image:images/simple-icons/white/gimp.svg[GIMP, 24]&nbsp;
-image:images/simple-icons/white/inkscape.svg[Inkscape, 24]&nbsp;
-image:images/simple-icons/white/krita.svg[Krita, 24]
-image:images/simple-icons/white/neovim.svg[Neovim, 24]&nbsp;
-image:images/simple-icons/white/zedindustries.svg[Zed, 24]&nbsp;
-image:images/simple-icons/white/vscodium.svg[VS Codium, 24]&nbsp;
-image:images/simple-icons/white/intellijidea.svg[IntelliJ IDEA, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-image:images/simple-icons/white/vivaldi.svg[Vivaldi, 24]&nbsp;
-image:images/simple-icons/white/brave.svg[Brave, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-image:images/simple-icons/white/openjdk.svg[Java, 24]&nbsp;
-image:images/simple-icons/white/javascript.svg[JavaScript, 24]&nbsp;
-image:images/simple-icons/white/typescript.svg[TypeScript, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-image:images/simple-icons/white/typst.svg[Typst, 24]&nbsp;
-image:images/simple-icons/white/asciidoctor.svg[AsciiDoctor, 24]
+image:images/simple-icons/vibrant-rose/nixos.svg[NixOS, 24]&nbsp;
+image:images/simple-icons/vibrant-rose/kdeplasma.svg[KDE, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+image:images/simple-icons/vibrant-rose/ghostty.svg[Ghostty, 24]&nbsp;
+image:images/simple-icons/vibrant-rose/fishshell.svg[Fish Shell, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+image:images/simple-icons/vibrant-rose/gimp.svg[GIMP, 24]&nbsp;
+image:images/simple-icons/vibrant-rose/inkscape.svg[Inkscape, 24]&nbsp;
+image:images/simple-icons/vibrant-rose/krita.svg[Krita, 24]
+image:images/simple-icons/vibrant-rose/neovim.svg[Neovim, 24]&nbsp;
+image:images/simple-icons/vibrant-rose/zedindustries.svg[Zed, 24]&nbsp;
+image:images/simple-icons/vibrant-rose/vscodium.svg[VS Codium, 24]&nbsp;
+image:images/simple-icons/vibrant-rose/intellijidea.svg[IntelliJ IDEA, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+image:images/simple-icons/vibrant-rose/vivaldi.svg[Vivaldi, 24]&nbsp;
+image:images/simple-icons/vibrant-rose/brave.svg[Brave, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+image:images/simple-icons/vibrant-rose/openjdk.svg[Java, 24]&nbsp;
+image:images/simple-icons/vibrant-rose/javascript.svg[JavaScript, 24]&nbsp;
+image:images/simple-icons/vibrant-rose/typescript.svg[TypeScript, 24]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+image:images/simple-icons/vibrant-rose/typst.svg[Typst, 24]&nbsp;
+image:images/simple-icons/vibrant-rose/asciidoctor.svg[AsciiDoctor, 24]
 
 == About Me
 
