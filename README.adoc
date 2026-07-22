@@ -40,11 +40,17 @@ energy, media, sports betting and other verticals.
 
 == GitHub Organizations
 
-[cols="a", frame=none, grid=none]
+[cols="a,a", frame=none, grid=none]
 |===
 | === https://github.com/espiria[Espiria] +
 image:images/espiria-256.jpg[Espiria, 256]
 
 | === https://github.com/gogglesa[GoggleSA] +
 image:images/gogglesa-256.jpg[GoggleSA, 256]
+
+| === https://github.com/archivesa[ArchiveSA] +
+image:images/archivesa-256.jpg[GoggleSA, 256]
+
+| === https://github.com/typerangsa[TyperangSA] +
+image:images/typerangsa-256.jpg[GoggleSA, 256]
 |===
